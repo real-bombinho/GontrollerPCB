@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg version="1.1" id="Layer_1" width="1500" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xml:space="preserve">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g id="board">
+  <path d="m0,150l150,-150l1200,0l150,150l0,450l-1500,0l0,-450z" id="boardoutline" fill="#FFFFFF" fill-opacity="0.5"/>
+ </g>
+ <g id="silkscreen">
+  <path d="m0,150l150,-150l1200,0l150,150l0,450l-1500,0l0,-450z" fill="none" stroke="#444444"/>
+ </g>
+</svg>
